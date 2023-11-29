@@ -7,7 +7,7 @@
         "remove_dead_bindings": true
     },
     "font": {
-        "base_size": 18.0,
+        "base_size": 36.0,
         "language": "Default",
         "oversample_horizontal": 3,
         "oversample_vertical": 1,
