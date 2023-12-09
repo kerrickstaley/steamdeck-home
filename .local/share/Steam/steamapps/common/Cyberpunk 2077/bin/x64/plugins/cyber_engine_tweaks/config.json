@@ -2,6 +2,7 @@
     "developer": {
         "dump_game_options": false,
         "enable_imgui_assertions": false,
+        "enable_jit": true,
         "max_lines_console_history": 1000,
         "persistent_console": true,
         "remove_dead_bindings": true
